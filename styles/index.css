@@ -12,7 +12,7 @@
     height: 700px;
     background-color: var(--main-color);
     margin-top:-140PX;
-    visibility:hidden;
+    visibility:;
 }
 
 #principio  h1 {
